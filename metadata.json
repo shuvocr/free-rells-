@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Anime & Drama AI Bot Studio",
+  "description": "Pyrogram Telegram Bot with Google Gemini AI Bengali summaries and Monetag Direct Link monetization buttons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
